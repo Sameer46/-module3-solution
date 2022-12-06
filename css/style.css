@@ -6,7 +6,10 @@
 .navbar-brand {       
     padding-left: 0;  
 }
-
+.mr-top{
+margin-top:40px;
+}
+	
 .navbar-brand a:hover, .navbar-brand a:focus {
     text-decoration: none;
   }
